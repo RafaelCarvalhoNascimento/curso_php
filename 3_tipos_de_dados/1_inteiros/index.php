@@ -1,0 +1,23 @@
+<?php
+
+// Aula para exemplificar os tipos de representação 
+// dos números inteiros em situações diversas.
+
+echo 5;
+echo "<br>";
+echo 5+7;
+echo "<br>";
+echo 7;
+echo "<br>";
+echo -12;
+echo "<br>";
+echo 5-12;
+echo "<br>";
+
+$n = 5;
+
+echo "<br>";
+echo $n;
+
+
+?>
