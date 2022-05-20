@@ -7,6 +7,10 @@
     // Melhoram a manutenção do mesmo
     // O PHP possuem diversas funções prontas que podemos usá-las
 
-    
+    // function diz ao interpretador que estou criando uma função 
+    // teste é o nome dela
+    function teste(){
+        // Código
+    }
 
 ?>
