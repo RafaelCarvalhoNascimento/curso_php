@@ -5,6 +5,7 @@
 #main-title{
     text-align: center;
     margin: 15px 0 30px;
+    /* color: red; */
 }
 
 /* HOME */
@@ -26,6 +27,8 @@
 .actions {
     text-align: right;
     width: 150px;
+    background-color: #BD2130;
+    
 }
 
 .actions i {
@@ -115,3 +118,4 @@
     }
 
 }
+

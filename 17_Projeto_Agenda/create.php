@@ -26,7 +26,7 @@
             <textarea type="text" class="form-control" id="observations" name="observations" placeholder="Insira as observações" rows="3"></textarea>
         </div>
 
-        <button type="submit" class="btn btn-primary">Cadastrar</button>
+        <button type="submit" class="mt-3 btn btn-primary">Cadastrar</button>
     </form>
 
 </div>
